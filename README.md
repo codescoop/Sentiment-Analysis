@@ -19,10 +19,11 @@ or Execute:
 ```
 Execute_SentimentAnalysis.cmd
 ```
+![Screenshot](graph.png "Screen1")
 
 ## Dependencies
 
-- PyAudio (http://www.nltk.org/)
+- NLTK (http://www.nltk.org/)
 
 ## Installation
 Set up a virtual environment and install the dependencies:
